@@ -1,0 +1,66 @@
+[submodule "PinTools"]
+	path = PinTools
+	url = https://github.com/JonathanSalwan/PinTools
+[submodule "vuzzer64"]
+	path = vuzzer64
+	url = https://github.com/vusec/vuzzer64
+[submodule "dtracker"]
+	path = dtracker
+	url = https://github.com/m000/dtracker
+[submodule "vuzzer"]
+	path = vuzzer
+	url = https://github.com/vusec/vuzzer
+[submodule "sulo"]
+	path = sulo
+	url = https://github.com/f-secure/sulo
+[submodule "tiny_tracer"]
+	path = tiny_tracer
+	url = https://github.com/hasherezade/tiny_tracer
+[submodule "mypintools"]
+	path = mypintools
+	url = https://github.com/hasherezade/mypintools
+[submodule "libdft64"]
+	path = libdft64
+	url = https://github.com/angorafuzzer/libdft64
+[submodule "code-coverage-analysis-tools"]
+	path = code-coverage-analysis-tools
+	url = https://github.com/cr4sh/code-coverage-analysis-tools
+[submodule "pin"]
+	path = pin
+	url = https://github.com/corelan/pin
+[submodule "ablation"]
+	path = ablation
+	url = https://github.com/paulmehta/ablation
+[submodule "WinAllocTracer"]
+	path = WinAllocTracer
+	url = https://github.com/fdiskyou/WinAllocTracer
+[submodule "mica"]
+	path = mica
+	url = https://github.com/boegel/mica
+[submodule "afl_pin_mode"]
+	path = afl_pin_mode
+	url = https://github.com/spinpx/afl_pin_mode
+[submodule "pintool-template"]
+	path = pintool-template
+	url = https://github.com/barkhat26/pintool-template
+[submodule "jarvis"]
+	path = jarvis
+	url = https://github.com/carlosgprado/jarvis
+[submodule "ida-splode"]
+	path = ida-splode
+	url = https://github.com/zachriggle/ida-splode
+[submodule "mazewalker"]
+	path = mazewalker
+	url = https://github.com/0xphoenix/mazewalker
+[submodule "dragondance"]
+	path = dragondance
+	url = https://github.com/0ffffffffh/dragondance
+[submodule "runtime-tracer"]
+	path = runtime-tracer
+	url = https://github.com/neuroo/runtime-tracer
+[submodule "idapin"]
+	path = idapin
+	url = https://github.com/maldiohead/idapin
+[submodule "instrumentation"]
+	path = instrumentation
+	url = https://github.com/agustingianni/instrumentation
